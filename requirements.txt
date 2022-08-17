@@ -1,0 +1,15 @@
+###### Requirements for the api and deployment on Heroku with fastapi ######
+
+
+matplotlib
+pydantic
+scikit-learn==1.0.2
+numpy
+fastapi
+pandas
+uvicorn
+gunicorn==19.9.0
+httptools
+scipy
+lightgbm==3.3.2
+shap==0.41.0

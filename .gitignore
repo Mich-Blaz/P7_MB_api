@@ -1,0 +1,9 @@
+__pycache__/app.cpython-37.pyc
+__pycache__/Clientdatas.cpython-37.pyc
+__pycache__/Clientdatas.cpython-39.pyc
+.ipynb_checkpoints/P7_MB_trainandsavefinalmodel-checkpoint.ipynb
+shapley_importance.csv
+d_to_dash_sample.csv
+description_col.csv
+data_to_dashboard.csv
+data_to_api.csv
